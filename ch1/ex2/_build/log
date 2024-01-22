@@ -1,0 +1,23 @@
+# dune exec ex2
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/lewis/.cache/dune/db
+# Workspace root: /Users/lewis/workspace/learning/ocaml/art_fp/ch1/ex2
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/Users/lewis/workspace/learning/ocaml/art_fp/ch1/ex2/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /Users/lewis/.opam/default/bin/ocamlc.opt -config > /var/folders/vw/6gz7r0lj01s5p69wgphcd5p80000gn/T/dune_6b7f32_output
